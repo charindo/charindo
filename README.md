@@ -1,6 +1,6 @@
 ----
 
-<a href="http://twitter.com/charindo">
+<a href="http://twitter.com/ch4rindo">
   <img height="20" src="https://img.shields.io/twitter/follow/charindo?label=Twitter&logo=twitter&style=flat" />
 </a>
 
